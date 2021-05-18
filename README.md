@@ -1,4 +1,4 @@
-# CUSTOM CAULDRONS
+# RECIPE BOOK
 Project files for the [MCreator](https://mcreator.net/) example and tutorial. 
 
 ## OVERVIEW
